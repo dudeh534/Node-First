@@ -1,0 +1,23 @@
+{
+  "name": "youngdo",
+  "version": "1.0.0",
+  "description": "first",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dudeh534@bitbucket.org/dudeh534/node.js-express-project.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "youngdo",
+  "license": "BSD-3-Clause",
+  "homepage": "https://bitbucket.org/dudeh534/node.js-express-project#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1"
+  }
+}
